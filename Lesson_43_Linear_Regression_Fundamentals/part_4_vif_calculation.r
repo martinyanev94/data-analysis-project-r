@@ -1,0 +1,2 @@
+library(car)
+vif(model)
